@@ -1,6 +1,6 @@
 # News-scraper
- Objective
-Scrape top news headlines from a major news website (e.g., BBC News) and save them to a .txt file for offline reading or analysis.
+<h3>Objective</h3>
+ <br> Scrape top news headlines from a major news website (e.g., BBC News) and save them to a .txt file for offline reading or analysis.
 
 🛠️ Tools Used
 - Python 3
