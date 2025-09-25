@@ -1,15 +1,16 @@
 # News-scraper
 <h3>Objective</h3><br> Scrape top news headlines from a major news website (e.g., BBC News) and save them to a .txt file for offline reading or analysis.
 
+
 🛠️ Tools Used
 - Python 3
 - requests – for fetching HTML content
 - BeautifulSoup (bs4) – for parsing and extracting headlines
 
 📁 Project Structure
-news_scraper/
-├── news_scraper.py         # Main Python script
-├── headlines.txt           # Output file with scraped headlines
+<br>news_scraper/<br>
+├── news_scraper.py         # Main Python script <br>
+├── headlines.txt           # Output file with scraped headlines <br>
 └── README.md               # Project documentation
 
 
